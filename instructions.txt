@@ -1,0 +1,12 @@
+Tugas 2: Branching dan Merging
+
+1. Buatlah branch baru dengan nama "feature-branch".
+2. Pindah ke branch "feature-branch".
+3. Ubah konten file1.txt dan file2.txt. Tambahkan baris baru atau ubah konten yang ada.
+4. Commit perubahan pada branch "feature-branch".
+5. Pindah kembali ke branch utama ("main").
+6. Lakukan beberapa perubahan pada file1.txt dan file2.txt di branch utama.
+7. Commit perubahan pada branch utama.
+8. Gabungkan perubahan dari "feature-branch" ke branch utama menggunakan perintah merge.
+
+
